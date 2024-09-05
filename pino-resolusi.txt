@@ -2,5 +2,5 @@ PINO RESOLUSI
 - Belajar HTML
 - Belajar CSS
 - Belajar Javascript
-- Belajar SQL
 - Belajar PHP
+- Belajar MySQL
