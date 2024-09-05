@@ -4,7 +4,10 @@ Frontend Route
  - Belajar Slider
   - Responsive Text
   - Responsive Image
+  - Responsive Button
  - Belajar Pagination
 - Belajar Tailwind
 - Belajar React
-
+- Fundamental Figma
+ - Typografi
+ - Konsep UI/UX
