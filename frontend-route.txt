@@ -2,6 +2,9 @@ Frontend Route
 - Belajar Bootstrap
  - Belajar Responsive Navigation
  - Belajar Slider
+  - Responsive Text
+  - Responsive Image
+ - Belajar Pagination
 - Belajar Tailwind
 - Belajar React
-- Fundamental Figma
+
