@@ -4,3 +4,4 @@ Frontend Route
  - Belajar Slider
 - Belajar Tailwind
 - Belajar React
+- Fundamental Figma
