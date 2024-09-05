@@ -1,4 +1,6 @@
 Frontend Route
 - Belajar Bootstrap
+ - Belajar Responsive Navigation
+ - Belajar Slider
 - Belajar Tailwind
 - Belajar React
